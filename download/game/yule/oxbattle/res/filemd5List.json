@@ -1,0 +1,612 @@
+{
+  "listdata": [
+    {
+      "md5": "33ac02d9d0af06df0615f1ac3892e48c", 
+      "name": "applylist_bg.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "be80118b3e2cdd9c2607ef63fcbd7724", 
+      "name": "applylist_bt_apply_n.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "c6d3e8616da2c59cb0a9be41782ddc28", 
+      "name": "applylist_btn_apply_d.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "95eb8302d7089abc63536f6c3da878f2", 
+      "name": "applylist_btn_apply_n.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "0951ff5e375e9ba150074220e8890dcc", 
+      "name": "applylist_btn_cancle_apply_d.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "b79ae6f1e3906a0128dbea32e924ce1c", 
+      "name": "applylist_btn_cancle_apply_n.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "0369d3d5c7654776c3dd899c0e91fa9a", 
+      "name": "applylist_btn_cancle_banker_d.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "b97048ce3f8763f74426932917e684ba", 
+      "name": "applylist_btn_cancle_banker_n.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "cb513946cdb4d7582253a7b6aa8d4cda", 
+      "name": "applylist_font_num.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "f526d341077917e943c4475237b74cc3", 
+      "name": "applylist_money_bg.png", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "b9a45f02749f2bb0aaf6f1f14199c6ce", 
+      "name": "ApplyListCellNode.csb", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "2c1659ac9949428ec921d66eba5cb7a9", 
+      "name": "ApplyListNode.csb", 
+      "path": "oxbattle/res/applylist/"
+    }, 
+    {
+      "md5": "ebb476563a72b47023a010fb823b6129", 
+      "name": "BeginBetAni.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "8e2668a9cfadeb6a5fcc35005d8d062e", 
+      "name": "brnn_bg.jpg", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "1a0f2fb37df5e7072f9f507c67b0c476", 
+      "name": "brnn_btn_back.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "076ed6f6417907127a72d29f6f875e0f", 
+      "name": "brnn_btn_info.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "94030a3cb5a1462ebb1fc601df76446d", 
+      "name": "brnn_btn_mumber.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "f919bb5aea0418d82df08354b8f3feaf", 
+      "name": "brnn_info_table_10.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "30831a5cc9444996f2aa1845ece212c9", 
+      "name": "brnn_info_table_4.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "0b85e35dbd805c9652b3f8f7dbd1f079", 
+      "name": "brnn_x_bg.jpg", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "17192e65a808df2880f0b00e9ab21b56", 
+      "name": "CardNode.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "ffdf02ec213213c3f95b10531fabdde2", 
+      "name": "ChipSelectedAni.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "6c920647a8e3c49b97eedc335c94da2a", 
+      "name": "GameLayer.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "c79d8a12dafc3728aad76c4102a42c1e", 
+      "name": "hundreds_donghua.plist", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "8fd09a48d42aca887db87976ff094ce1", 
+      "name": "hundreds_donghua.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "b63cc10a74f3ee5edd97bf19612fcafb", 
+      "name": "hundreds_poker.plist", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "c4e98100e47ce2107775d852b1cc968e", 
+      "name": "hundreds_poker.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "8eaefabea698620b753b057be5cbd615", 
+      "name": "hundreds_table_main.plist", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "45ab647c7357edf6b233fac5e695f0b6", 
+      "name": "hundreds_table_main.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "016c084876958309b327854054d2c98a", 
+      "name": "niuniu_type_fnt_grey.fnt", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "2734d0570e7a79b6aa0dc877fd2da66c", 
+      "name": "niuniu_type_fnt_grey_0.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "cc15fe294966ec390d12d044cd8cab96", 
+      "name": "niuniu_type_fnt_yellow.fnt", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "df661c2046a1dfb3a66f617db35ef753", 
+      "name": "niuniu_type_fnt_yellow_0.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "b9af08d08ec4c8a37607b42223a88b18", 
+      "name": "num_time.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "90b846fa84b1a29020e71b46f41db880", 
+      "name": "txt_time_free.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "f078345858af581244324020d746e5d9", 
+      "name": "txt_time_jetton.png", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "c3d8b8c498588cc548e366f7ee6a3b19", 
+      "name": "WinLightDi.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "ea92f3b5c5cf8682f68251151612d04e", 
+      "name": "WinLightHuang.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "3bbfa83263339a9b1086e535ff5c25b9", 
+      "name": "WinLightTian.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "c9ad71f15849fd27eaae25df3f0f9c81", 
+      "name": "WinLightXuan.csb", 
+      "path": "oxbattle/res/game_res/"
+    }, 
+    {
+      "md5": "9e143fd51c3fa0f511fe933f2ab9788e", 
+      "name": "roomlist_title.png", 
+      "path": "oxbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "ebf6891775f93076659e1ddb2ad8670a", 
+      "name": "Rule.txt", 
+      "path": "oxbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "eae2a525697fcf8b616384d34b1385a1", 
+      "name": "fnt1.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "7a77cae1d76930cab62bf0741b17e7ec", 
+      "name": "fnt2.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "84c611973f6ef8d443fd2d6914455759", 
+      "name": "sitrole_btn_seat.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "aff84c79628f540a761c23d9cb5ea466", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "527c7de954a9c4886d4d30223addc104", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "f8114e064c3e76be63a371354818580a", 
+      "name": "sitrole_number_1.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "aecffbe6c9a889e6a6a4edc88bab065a", 
+      "name": "sitrole_number_2.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "fd3423b557c683c0c81bfad375da8fb4", 
+      "name": "sitrole_number_3.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "0e22229a8381e7a7bed0449f9f2e2db5", 
+      "name": "sitrole_number_4.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "22f8efe1d43630392ed1f351503fc9f2", 
+      "name": "sitrole_number_5.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "d5b70244d2995c05b3bb37c5c90e1ec6", 
+      "name": "sitrole_number_6.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "4c9b151c8233a317da0df98c59ed5002", 
+      "name": "sitrole_number_7.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "fa185fd54c3253b73d2235a03410d6a0", 
+      "name": "sitrole_number_8.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "18f6616b035f7291f68b1a534080c5a1", 
+      "name": "sitrole_unseated.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "d9619c1b729ba8ab4c475ad7f954b684", 
+      "name": "sitrole_user_bg.png", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "1c7b405890210cd85838197d8e6db31e", 
+      "name": "SitRoleNode.csb", 
+      "path": "oxbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "358c0d153489601f0b894ba83818d081", 
+      "name": "bairen_flycard.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "fdfab5ffd99a51aebe30141c0583266a", 
+      "name": "bet.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "b822af213e564203822e0ac0256f101f", 
+      "name": "hundreds_bg_sound.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "dd3bb68ff9ac9d506d8fda17490e714f", 
+      "name": "hundreds_result_lose.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "5f68ae8305508e3ec91698cc16b0253f", 
+      "name": "hundreds_result_win.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "429bc9a1a63dd0fc4ed82b03aea53092", 
+      "name": "kaishixiazhu.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "6781de3c8ec5de8e39d886c244ca20b9", 
+      "name": "N0_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "cdd1bf2d6b438970215897cbc197c571", 
+      "name": "N10_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "92857969f7648ae6d91b0380949a075f", 
+      "name": "N11_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "be3fda1dc0913d4bf9d6cd8a5b3941f3", 
+      "name": "N12_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "ccb83e5fa4a22514242c1b2cbe899c6a", 
+      "name": "N13_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "861b25105415151747c9d050b6c667dd", 
+      "name": "N14_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "891f8003a05d468b68941549ab5c1b74", 
+      "name": "N15_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "065363a461ff6ff4db6366e16885c664", 
+      "name": "N16_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "ed713c53990248f85b473d644d73775e", 
+      "name": "N17_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "e6975c540fb6115bb18ca403c55ca0a8", 
+      "name": "N1_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "4cc4d8bb85eda9a0ad2930e741b5d642", 
+      "name": "N2_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "20fa4c81aa509d2003782794ff845a19", 
+      "name": "N3_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "64f12523311900de5a25d1b36a937f83", 
+      "name": "N4_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "61cba2e3cf4e6c3bd93f0a32c3bba26c", 
+      "name": "N5_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "14651bf9ab8edc90b9713cbd2a9ae9f5", 
+      "name": "N6_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "d337bae419a1d8868d59a842cd125365", 
+      "name": "N7_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "a6d6bdf750a9fb49b3e3cd2772fb1a63", 
+      "name": "N8_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "9fa95e90e040503ba5834d4e71f67ca4", 
+      "name": "N9_1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "1c3c5ba9c72037c45d2d1fc341f51a4d", 
+      "name": "on_bet1.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "8068093397e3082cc02fb254059e7a2a", 
+      "name": "on_bet2.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "9f93495c8264d3e06182c189c8d060cd", 
+      "name": "on_bet3.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "6fe3c6352c72a83522cdb6c94fed8b08", 
+      "name": "on_bet4.mp3", 
+      "path": "oxbattle/res/sound_res/"
+    }, 
+    {
+      "md5": "a719fc517052d6f403a4261b387067c8", 
+      "name": "trend_bg.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "7e6bf06a8b91b1e103cefb76ee00a806", 
+      "name": "trend_bg_front.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "f6f75aa4516a7d34b3cf6fe2a7b5f6c6", 
+      "name": "trend_icon_new.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "308290b8d9f10a93e0812e28f4d2c198", 
+      "name": "trend_lose.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "6165138081d0eee1dc80870f6aa0c60d", 
+      "name": "trend_title_d.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "8b93e8e8d1ca0a35d7d4a91d43353097", 
+      "name": "trend_title_h.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "41ef9a5e64a19e61d7e1b10cbcd1f5ce", 
+      "name": "trend_title_t.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "5a4b0bcdc558218473191e9fc0ee699b", 
+      "name": "trend_title_x.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "34294736a0a4d66b315e7a3a66e73cb4", 
+      "name": "trend_win.png", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "e86e066ccfc23b34d370486c76f20ac1", 
+      "name": "TrendNode.csb", 
+      "path": "oxbattle/res/trend/"
+    }, 
+    {
+      "md5": "e93e2bb923079c310c9ee539b2c4bbe1", 
+      "name": "UserCellNode.csb", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "e23d30f2fc2abf586a07ce5d0b9036eb", 
+      "name": "UserItemNode.csb", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "f7cd10d04dd0261ada0eabd86a282edc", 
+      "name": "userlist_avatar_frame.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "765b7df331f3b26317e6ccae8becdfa2", 
+      "name": "userlist_bg.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "27e4fb1e895ed9e453e79d7f2100da44", 
+      "name": "userlist_btn_close.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "9290cc0b39a804e9b9bcac57e32f4b57", 
+      "name": "userlist_btn_next_d.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "f86a52a3b1dcb01d8784a3d10396467b", 
+      "name": "userlist_btn_next_n.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "71e0c5d1ec36bcf53db9de66273b2ae3", 
+      "name": "userlist_btn_previous_d.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "825785dbb55f48162d2b40beebd56063", 
+      "name": "userlist_btn_previous_n.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "667bc4aa940e1aade4cceb0d2346609c", 
+      "name": "userlist_coin.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "76040b435315e437f216aa6866095848", 
+      "name": "userlist_table_line.png", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "2a47f92c0bfe18c2f4f6ac5bdcd1d7f1", 
+      "name": "UserListNode.csb", 
+      "path": "oxbattle/res/userlist/"
+    }, 
+    {
+      "md5": "4d219b94d04847b8f97be00f3a2be45a", 
+      "name": "CMD_Game.luac", 
+      "path": "oxbattle/src/models/"
+    }, 
+    {
+      "md5": "6e0aa6748d1d59615f6674ecc799229c", 
+      "name": "GameFrame.luac", 
+      "path": "oxbattle/src/models/"
+    }, 
+    {
+      "md5": "b36097c662754e8b89322990f1937397", 
+      "name": "GameLogic.luac", 
+      "path": "oxbattle/src/models/"
+    }, 
+    {
+      "md5": "d8215f0a193886970ae15ce0857374fc", 
+      "name": "GameLayer.luac", 
+      "path": "oxbattle/src/views/"
+    }, 
+    {
+      "md5": "7a8eb85abaa866f995081c4d83f76590", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "oxbattle/src/views/"
+    }, 
+    {
+      "md5": "18e7c0336bf73c2c80b3ebceb837d677", 
+      "name": "ApplyListLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "b29ba1d80192ef25f0a5b3ede4965182", 
+      "name": "CardSprite.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "cfa9ce52a5b6e9e946fe483445d62d11", 
+      "name": "GameRecordLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "fe69bc207a45f843ba3e63985e9a569d", 
+      "name": "GameResultLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "b0cf1d4d28c5b43f9559018a452bc327", 
+      "name": "GameViewLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "deb57244465dc6cf7c610c2a1e371fe9", 
+      "name": "SitRoleNode.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "d325c68139988ea3b765eb543e7c3262", 
+      "name": "UserItem.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "md5": "6d182c16905d16daee178490628ab540", 
+      "name": "UserListLayer.luac", 
+      "path": "oxbattle/src/views/layer/"
+    }, 
+    {
+      "allcount": 121
+    }
+  ]
+}

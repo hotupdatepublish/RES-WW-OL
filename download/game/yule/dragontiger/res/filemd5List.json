@@ -1,0 +1,617 @@
+{
+  "listdata": [
+    {
+      "md5": "e610c185e1faa0c73f4d48e9c8fd2621", 
+      "name": "detailLayer.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "0c3f3cdc5a8f498bc8d83ce14f8a8300", 
+      "name": "gameLayer.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "efcd9e80de90c97a8183452d53a3e36a", 
+      "name": "luckyStar.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "7245e0744a9b9865667c9262ab5a771d", 
+      "name": "naozhong.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "a27a6030601dc08b84bc14498b3d6fbb", 
+      "name": "playerItem.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "5317e59555d4ba633cdeb89dc7bc6bf7", 
+      "name": "playerListLayer.csb", 
+      "path": "dragontiger/res/"
+    }, 
+    {
+      "md5": "8d6a7df85d341a4c21b638fe5e050122", 
+      "name": "area_dragon.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "70df7a3e63ea37766205ad0597f09f95", 
+      "name": "area_he.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "3c582e7ca71c5016eab1a028aeefe85d", 
+      "name": "area_tiger.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "4201d676355bcbe9343c385cd2137c4a", 
+      "name": "card.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "0b957909a9c9fb7ff53338815c806c8f", 
+      "name": "longhudou_chip.plist", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "89bac2ad11abe1b18d17104f4552434d", 
+      "name": "longhudou_chip.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "59143ac783c568fb3a6ecd9bc47753d9", 
+      "name": "longhudou_common.plist", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "841a82ac5c9f19ef43cc5de1000d7895", 
+      "name": "longhudou_common.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "6b4d5a93f52acdaeed7810fca175b384", 
+      "name": "longhudou_dayingjia.plist", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "e5b6fc276d868a5c859c12b0b2731d95", 
+      "name": "longhudou_dayingjia.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "d27f778fd7bc4ee6e553c461facb1113", 
+      "name": "longhudou_donghua.plist", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "36592aec5c851acac8322f537cdfe713", 
+      "name": "longhudou_donghua.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "27157ff4954e4f324019337bed9827eb", 
+      "name": "longhudou_pailu.plist", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "3bb2d3153c7b900ec30a72e70278a02d", 
+      "name": "longhudou_pailu.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "e75d58beeb73202efdbe17ba941c93f3", 
+      "name": "longhudou_player.plist", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "e7abf77223c7aad5dafeb69466d857cd", 
+      "name": "longhudou_player.png", 
+      "path": "dragontiger/res/img/"
+    }, 
+    {
+      "md5": "0592fb8cfb36c4cb1bed282f7da356bf", 
+      "name": "longhudou_dayingjia.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "d6d47c9c322f7e180361be15e3c7823b", 
+      "name": "longhudou_dayingjia_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "307f4c9d4eb137fa7b32385f89e438f6", 
+      "name": "longhudou_golden.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "5cb6297fd34afd00591cd8a5592d45cf", 
+      "name": "longhudou_golden.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "ec902c01c3d4dadb0c5747d449e3b3b1", 
+      "name": "longhudou_playerlist_number.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "acba39a80f210ffa87945f7fa9232363", 
+      "name": "longhudou_playerlist_number_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "91e5a80590e37c831a8ecf9047bbe2b1", 
+      "name": "longhudou_rebuy_num.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "7cae4b3a6ff78ae5a7dcb7e39b79ceb8", 
+      "name": "longhudou_rebuy_num.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "ef0351b80fa02dda23455dd788436fc8", 
+      "name": "longhudou_remind_num.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "55e2ae555f3dbac45c737f45a769cb57", 
+      "name": "longhudou_remind_num_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "9c685fe4a77491b3ceb76e8296e54265", 
+      "name": "longhudou_white.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "ac7bceb3bf682e6db1a34f162c8b45a2", 
+      "name": "longhudou_white.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "8fd52467613444ca4f3492285e5a622b", 
+      "name": "longhudou_winner_add.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "5cefd0619d698a98196be3e88ebdb64a", 
+      "name": "longhudou_winner_add.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "0abb35e0c232987c6b3f379fd77be6a4", 
+      "name": "longhudou_winner_add_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "e7658a5109c248d29fbddfc7fa98c338", 
+      "name": "rewards.fnt", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "c4ed76bbc73fd4ea59441969a788bb84", 
+      "name": "rewards.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "86decab97f694e8d4db4a00fc8554a02", 
+      "name": "rewards_0.png", 
+      "path": "dragontiger/res/img/font/"
+    }, 
+    {
+      "md5": "91282775970c5e01a40d6e8c0c9933a6", 
+      "name": "longhudou_bigwinner_star.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "e7ef6ef5e9c78c6b5fe887f6b862f34c", 
+      "name": "longhudou_common_jiaobiaoluck.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "a3f9621da8a2e706e954c6314e00ab18", 
+      "name": "longhudou_donghua_petal.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "1d91e6f0d3f7cde9e00155b4cf4d21fb", 
+      "name": "longhudou_playerlist_cell_background.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "823388ebfc4472de18e2fd5299c4eb50", 
+      "name": "longhudou_playlist_background.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "9d244889791fc3159390c1592ad622b3", 
+      "name": "longhudou_rule_background.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "62b26459ce5a2a802a4a164eb771fbc9", 
+      "name": "longhudou_table_center_wait_current_game_end.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "bc1bac143f2ea3778437eb8f901b5739", 
+      "name": "nopack_5adeb.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "dd6d81df7774edd34cb2d15bffb276cf", 
+      "name": "nopack_bairen.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "8064667c5aa280897aca20eb76681099", 
+      "name": "nopack_bairen2.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "97ab4e138c08fe11bf7b894969defe3c", 
+      "name": "nopack_big_hongguang_.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "2c5dda7b305fb1c26fac63d5ee092bdf", 
+      "name": "nopack_big_huangquan1_.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "5a7c52f637fedede64830cc355c3b8fe", 
+      "name": "nopack_dayingjia_caidai01.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "6817e1704fa32555084417584b4324b0", 
+      "name": "nopack_dayingjia_caidai02.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "cdd9a68ecb9025c8b1e254af6a61d46f", 
+      "name": "nopack_dayingjia_caidai03.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "a2318080e7fd037dae079a976992beb2", 
+      "name": "nopack_dayingjia_caidai04.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "a926ca6dee167f00652ea1a9e8327186", 
+      "name": "nopack_lizi024.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "aa8b1d21e51b97c0e6c3ff224579c80e", 
+      "name": "nopack_longhudong_hu.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "f6b42a3951272a1d40955955d710db7b", 
+      "name": "nopack_longhudou_long.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "5201a654948f976be2ffb982b6c5c361", 
+      "name": "nopack_playerlist_title.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "e33db34c24376961ba855f2d55f23905", 
+      "name": "nopack_playerlist_top.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "479e2bf4f054bbe312ef3ba4f0c6789c", 
+      "name": "nopack_vs_gbt12.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "76040b435315e437f216aa6866095848", 
+      "name": "userlist_table_line.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "f1674eacff29ee6fa442bbc7f1489a46", 
+      "name": "winner_sg.png", 
+      "path": "dragontiger/res/img/nopack/"
+    }, 
+    {
+      "md5": "50160acbf13b10ff993f1c4896cf93ff", 
+      "name": "skeleton.atlas", 
+      "path": "dragontiger/res/img/nopack/Animation/"
+    }, 
+    {
+      "md5": "afd98f4bc2865ca4eeffc0ced1d1d569", 
+      "name": "skeleton.json", 
+      "path": "dragontiger/res/img/nopack/Animation/"
+    }, 
+    {
+      "md5": "d7995f30e04072e8acd0d8ce74115b80", 
+      "name": "skeleton.png", 
+      "path": "dragontiger/res/img/nopack/Animation/"
+    }, 
+    {
+      "md5": "031066677f717d4ee567bfecfb857ce0", 
+      "name": "btn_light.atlas", 
+      "path": "dragontiger/res/img/nopack/load_animation/"
+    }, 
+    {
+      "md5": "e1c4d2efb07f00a2ec34b188c8e89906", 
+      "name": "btn_light.json", 
+      "path": "dragontiger/res/img/nopack/load_animation/"
+    }, 
+    {
+      "md5": "b91f5206a07249ffa49d703427fb34c3", 
+      "name": "btn_light.png", 
+      "path": "dragontiger/res/img/nopack/load_animation/"
+    }, 
+    {
+      "md5": "66fd831ecdc254a6ea97b118e377df35", 
+      "name": "icon_roomlist_0.png", 
+      "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "516e76e38c23e7cb3fffb8c2443727bc", 
+      "name": "icon_roomlist_1.png", 
+      "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "31561ee978d82b9707c99cb005fdfc08", 
+      "name": "icon_roomlist_2.png", 
+      "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "c3527798b497cec5cd345ef25d0183d2", 
+      "name": "roomlist_title.png", 
+      "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "5556e52a1cff4706ddcb752dbe6b784f", 
+      "name": "Rule.txt", 
+      "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "85b139ce11f8fc8447340f4a18489a56", 
+      "name": "rule_longhudou.png", 
+      "path": "dragontiger/res/roomlist/"
+    }, 
+    {
+      "md5": "966deab48e2b8f20c191ed0ea711798c", 
+      "name": "audio_reminded_myself.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "29159c500218a84a6dc1d25558a15c9b", 
+      "name": "bet.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "ebc88278ab816b6b2ccfae9e497ac3ef", 
+      "name": "big_winner.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "dd219210323e5c8cfc39a02d1ea15e67", 
+      "name": "flip_card.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "474b668ae047b3e3a1a513c3545a546e", 
+      "name": "he.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "f061ab1837625751ac4ace3fc17c3e22", 
+      "name": "hu_win.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "0f49e57e17e7c85c6e872a66c3c03f7e", 
+      "name": "lhb_p_1.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "9d9740483a05dae8bf75c99addcd28d3", 
+      "name": "lhb_p_10.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "fda98ead8cfe245b07ada55264b41b8b", 
+      "name": "lhb_p_11.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "85e797827e2c6a92adc722b9a9227307", 
+      "name": "lhb_p_12.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "5fba555f636a08ff66b9871e264d4a65", 
+      "name": "lhb_p_13.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "302c1e18f8150a831aa85777b1df0b77", 
+      "name": "lhb_p_2.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "8dbfbc1130d3844718b19e6c2cffc718", 
+      "name": "lhb_p_3.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "b4c6cf32466d9fa29c93804a973ca3ed", 
+      "name": "lhb_p_4.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "61f60cc8c2fc123f9af4e7ded3eac311", 
+      "name": "lhb_p_5.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "b621a92b28831d535a2138de6e8e9000", 
+      "name": "lhb_p_6.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "54fd4d4c3b5276c67c91802bada8f66a", 
+      "name": "lhb_p_7.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "f65027da60f0ae5416afe46e5e29d63f", 
+      "name": "lhb_p_8.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "c26136dd0e760470e6b7aafda3481cf2", 
+      "name": "lhb_p_9.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "a5a8526489db9a1485d85d2b25f39fbb", 
+      "name": "long_win.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "cac36f50b47e5f1516bb7cb45094bf50", 
+      "name": "on_bet0.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "603f2ab26880570aa3e9e34b725b2a46", 
+      "name": "on_bet1.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "53528318e451a3067f9c444bea1ccac7", 
+      "name": "on_bet2.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "2ac9d64cc8ef72794bd96b2f85ca263d", 
+      "name": "on_bet3.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "55ae5a4d240016d4e25c2aac46edfd5b", 
+      "name": "on_bet4.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "b7e2837ec8f5ec8a9ebc87a7406d4ee4", 
+      "name": "send_card.mp3", 
+      "path": "dragontiger/res/sound_res/effect/"
+    }, 
+    {
+      "md5": "9df2fb096b678834aa08c1f034b7815b", 
+      "name": "background.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
+    }, 
+    {
+      "md5": "c9c5ec260661825e2d67b00f57553c18", 
+      "name": "bet_end.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
+    }, 
+    {
+      "md5": "ba19ee129fae69cda086ba587545b95b", 
+      "name": "bet_ready.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
+    }, 
+    {
+      "md5": "ca3953c35814390aa82e52c536b45936", 
+      "name": "bet_start.mp3", 
+      "path": "dragontiger/res/sound_res/music/"
+    }, 
+    {
+      "md5": "6086b442b6cba183f475ff9c9732b3a6", 
+      "name": "bjlGameDefine.luac", 
+      "path": "dragontiger/src/models/"
+    }, 
+    {
+      "md5": "283e567583c4d2759ca2c96d62b0a3e5", 
+      "name": "CMD_Game.luac", 
+      "path": "dragontiger/src/models/"
+    }, 
+    {
+      "md5": "1d97d85f13c9ed8a476ec553fb9b95cc", 
+      "name": "GameFrame.luac", 
+      "path": "dragontiger/src/models/"
+    }, 
+    {
+      "md5": "a06783b6635971e5e3c45a00f101275c", 
+      "name": "GameLogic.luac", 
+      "path": "dragontiger/src/models/"
+    }, 
+    {
+      "md5": "7fbfd3aac83d710d5984ad9e177ee707", 
+      "name": "GameLayer.luac", 
+      "path": "dragontiger/src/views/"
+    }, 
+    {
+      "md5": "ad2dbd05a2f3f88ab3046a3ea3bc8b07", 
+      "name": "GameRoomListLayer.luac", 
+      "path": "dragontiger/src/views/"
+    }, 
+    {
+      "md5": "6d208290bc99c206f3f608caf3805ff2", 
+      "name": "GameCardLayer.luac", 
+      "path": "dragontiger/src/views/layer/"
+    }, 
+    {
+      "md5": "ddc984bb76fbece514a3994e4b6d3079", 
+      "name": "GameViewLayer.luac", 
+      "path": "dragontiger/src/views/layer/"
+    }, 
+    {
+      "md5": "b44eb77433c623e15610597c77d247e9", 
+      "name": "SettingLayer.luac", 
+      "path": "dragontiger/src/views/layer/"
+    }, 
+    {
+      "md5": "130b8e8e0ceef402c9d921f912345231", 
+      "name": "WallBillLayer.luac", 
+      "path": "dragontiger/src/views/layer/"
+    }, 
+    {
+      "md5": "5d5b1df6139549f2cdc5263ee3c247a7", 
+      "name": "CardsNode.luac", 
+      "path": "dragontiger/src/views/layer/gamecard/"
+    }, 
+    {
+      "md5": "129e277917f18bab21d9c5bb8693c813", 
+      "name": "CardSprite.luac", 
+      "path": "dragontiger/src/views/layer/gamecard/"
+    }, 
+    {
+      "md5": "83b35f58ba062586359da1ac89e47f60", 
+      "name": "ApplyListLayer.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "5e797cd0e97fb75cba74e81cda08b522", 
+      "name": "PlayerListLayer.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "9c9118291f9257c7c9a5c67ee350e669", 
+      "name": "SitRoleNode.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "md5": "ed04bec3cee052e94643ecd30036f141", 
+      "name": "UserItem.luac", 
+      "path": "dragontiger/src/views/layer/userlist/"
+    }, 
+    {
+      "allcount": 122
+    }
+  ]
+}
