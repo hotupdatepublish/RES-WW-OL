@@ -131,7 +131,7 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "55635fd2a479501ca691b6fec9057779", 
+      "md5": "2b76683f5dd0d2d0ae7fb5b99fe43574", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -426,7 +426,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "aa9ebeeabc00e5176f464c38e697db87", 
+      "md5": "6518ebb22e4f6bb078898e76050ca01e", 
       "name": "CMD_Game.luac", 
       "path": "baccaratnew/src/models/"
     }, 
@@ -441,7 +441,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "090bde0ba08fe855d7aa9bed887dd4d6", 
+      "md5": "2a98b12decd124cb72ec8b6641bc97fe", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -461,17 +461,17 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "284f8f222de16b6eda4fc498240e59dd", 
+      "md5": "863db220171f5d0add79be3e50115b72", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "afc039b9c59baf37af2bf34b40872c54", 
+      "md5": "341e3bbb96dcd69bf28cb68cc7d2c2d6", 
       "name": "WallBillLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "0e5009d6afbea51697c25c642cb6d539", 
+      "md5": "7fb57c51fb23aa873587e6669874dc75", 
       "name": "CardsNode.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 
@@ -491,7 +491,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "4a1cadff6fe7fa4b4be7687d7fb4fbfb", 
+      "md5": "71c84702667cd0266d0f573452094b9d", 
       "name": "UserListLayer.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 

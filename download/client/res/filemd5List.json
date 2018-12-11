@@ -346,6 +346,11 @@
       "path": "client/res/GameList/"
     }, 
     {
+      "md5": "c542ee66f2ef3db66ce5b0161785ad9e", 
+      "name": "hall_download_wait.png", 
+      "path": "client/res/GameList/"
+    }, 
+    {
       "md5": "ef10838e76ad401be156d6af77215cc6", 
       "name": "kuang.png", 
       "path": "client/res/GameList/"
@@ -931,7 +936,7 @@
       "path": "client/res/plazz/"
     }, 
     {
-      "md5": "45505f37bc3a0af53054612021bd09a7", 
+      "md5": "c84b7af822e5f336648674e4be11f7fe", 
       "name": "PlazzLayer.csb", 
       "path": "client/res/plazz/"
     }, 
@@ -1461,12 +1466,12 @@
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "f15fe61dcb976f93343f813e99f5c77d", 
+      "md5": "a7e5859fa200fd12a4b305906be33ec3", 
       "name": "ContactProxyLayer.csb", 
       "path": "client/res/recharge/"
     }, 
     {
-      "md5": "b2dbbfe4e7607087982f5efa28a17b24", 
+      "md5": "b581d0e8e777b18d0c26d7c202e92760", 
       "name": "Recharge.csb", 
       "path": "client/res/recharge/"
     }, 
@@ -1846,7 +1851,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "1d5fae3eaece40f49804d7bbcc6d0070", 
+      "md5": "e7e15b507da4b62cf116d5be3d1a02b6", 
       "name": "ChangeName.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -1876,7 +1881,7 @@
       "path": "client/res/userinfo/"
     }, 
     {
-      "md5": "59ae02b8b07be7b36225b088ec774641", 
+      "md5": "cbee255107ae81d7f15eb89c278e96f4", 
       "name": "UserInfo.csb", 
       "path": "client/res/userinfo/"
     }, 
@@ -2071,7 +2076,7 @@
       "path": "client/src/external/"
     }, 
     {
-      "md5": "fdbf53464cac47d85dde59c07a076346", 
+      "md5": "c9e85b626104c9d696ca89ecc8b30c36", 
       "name": "ExternalFun.luac", 
       "path": "client/src/external/"
     }, 
@@ -2146,12 +2151,12 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "651770ceb55c78eae1ee5fb7a6d437ef", 
+      "md5": "78451a38d557abd903f7010ff0744c65", 
       "name": "FriendMgr.luac", 
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "02118698f067631490e455bac798c967", 
+      "md5": "87cdede3e940fbc25db37d116225cbc1", 
       "name": "GameFrameEngine.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2161,7 +2166,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "34577c4f584b9736cdbe164d7c888645", 
+      "md5": "a15b3c8111d6d2522e91e8d674e3a84d", 
       "name": "GlobalUserItem.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2171,7 +2176,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "f68a9e45865f2aab9a273f1e98d26b76", 
+      "md5": "5051f53a24bd7151c9b0e469c9df37ae", 
       "name": "LogonFrame.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2196,7 +2201,7 @@
       "path": "client/src/plaza/models/"
     }, 
     {
-      "md5": "14c0a838d2c8bc88079bd48d6a237a85", 
+      "md5": "18429e65163d13223065c287b43b0ef2", 
       "name": "yl.luac", 
       "path": "client/src/plaza/models/"
     }, 
@@ -2416,7 +2421,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "facf39ad6307e8f646f73c04fd804e26", 
+      "md5": "4d2b7cc39e492a731b9605bf1294ed7d", 
       "name": "GameListLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2466,7 +2471,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "3fad3fb5a592060e0c20da0af535d8fd", 
+      "md5": "3428d102579896866dae08f10b702d99", 
       "name": "RechargeLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2536,7 +2541,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "9a06c6e0547c5c14afaceec48206e62e", 
+      "md5": "bf3db603d8ac302bfd3d8bdfeb2a8c78", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
@@ -2676,7 +2681,7 @@
       "path": "client/src/privatemode/plaza/src/views/"
     }, 
     {
-      "allcount": 535
+      "allcount": 536
     }
   ]
 }
