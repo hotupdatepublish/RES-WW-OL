@@ -126,12 +126,22 @@
       "path": "baccaratnew/res/game/"
     }, 
     {
+      "md5": "153a1f4fc463a5f110061ee780530da4", 
+      "name": "cs_h.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
+      "md5": "526b913a7b9a3f831256b65996d1e6d5", 
+      "name": "cx.png", 
+      "path": "baccaratnew/res/game/"
+    }, 
+    {
       "md5": "5ded51256efe7ef15b44bd0aab0b3850", 
       "name": "GameCardLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
     {
-      "md5": "2b76683f5dd0d2d0ae7fb5b99fe43574", 
+      "md5": "f553d6709393d9134f11763bcad246a1", 
       "name": "GameLayer.csb", 
       "path": "baccaratnew/res/game/"
     }, 
@@ -441,7 +451,7 @@
       "path": "baccaratnew/src/models/"
     }, 
     {
-      "md5": "2a98b12decd124cb72ec8b6641bc97fe", 
+      "md5": "5f739a34f2a92ccdfc7881337bf1b843", 
       "name": "GameLayer.luac", 
       "path": "baccaratnew/src/views/"
     }, 
@@ -451,7 +461,7 @@
       "path": "baccaratnew/src/views/"
     }, 
     {
-      "md5": "d366613408d6a0ec458a6bddc42dc881", 
+      "md5": "31f894cfc09dc751803e938a444942cc", 
       "name": "GameCardLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -461,7 +471,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "863db220171f5d0add79be3e50115b72", 
+      "md5": "e07947151a18a3fdc325bd562975037a", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -471,7 +481,7 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "7fb57c51fb23aa873587e6669874dc75", 
+      "md5": "5dbf9f4f0baa0f952ee280ffa7a34d02", 
       "name": "CardsNode.luac", 
       "path": "baccaratnew/src/views/layer/gamecard/"
     }, 
@@ -491,12 +501,12 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "md5": "71c84702667cd0266d0f573452094b9d", 
+      "md5": "1839d1e2c18b91c7587e70c552422f84", 
       "name": "UserListLayer.luac", 
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 99
+      "allcount": 101
     }
   ]
 }

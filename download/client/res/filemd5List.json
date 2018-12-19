@@ -2051,7 +2051,7 @@
       "path": "client/res/withdraw/"
     }, 
     {
-      "md5": "7b3a63dd1dd6e8cca7dde65f5b8337a6", 
+      "md5": "d81f50da956c0db4aec6b35c24a9380f", 
       "name": "WithdrawRecordCellNode.csb", 
       "path": "client/res/withdraw/"
     }, 
@@ -2541,7 +2541,7 @@
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
     {
-      "md5": "bf3db603d8ac302bfd3d8bdfeb2a8c78", 
+      "md5": "4ef9e34515c6f8bbaa358b362f5b53ed", 
       "name": "UserInfoLayer.luac", 
       "path": "client/src/plaza/views/layer/plaza/"
     }, 
