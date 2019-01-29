@@ -1,276 +1,6 @@
 {
   "listdata": [
     {
-      "md5": "c3925843bdd646ee04a0a5bf00952283", 
-      "name": "28g.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "d686618556c1109c619b71b0b4c1e737", 
-      "name": "28gang.plist", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "098bf04130624c4f6ca35a96ebfd8429", 
-      "name": "28gang.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "d152f2bd7d02ffb78269c1264e613897", 
-      "name": "b-fs8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "f6f1846e688829d456d59412a49c75d5", 
-      "name": "b.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "77a3413309de803ed23cef14022ce2ce", 
-      "name": "b_fg.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "2b2c910d941a03adfc479db821ac6cb2", 
-      "name": "b_zc.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "d79ebc59b804a9fe564b7361184e545a", 
-      "name": "bg-fs8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "24b32f51426fd6906e5fced5f122ad10", 
-      "name": "bg_02.jpg", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "965291ab5633921a0e781beb9cb2f395", 
-      "name": "bg_03.jpg", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "0cc93701a91dccac9f6226fe3642ebb0", 
-      "name": "brnn_btn_back.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "f468995a1929686beffa0d15576b9428", 
-      "name": "brnn_chip_0_0.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "a4d84baf27d3e3a29ffe3b4bfad06bc5", 
-      "name": "brnn_chip_0_1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "9e33c973e004db535439f7d2d3412079", 
-      "name": "brnn_chip_0_2.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "fe95ac1545d177ef37930508de052eab", 
-      "name": "brnn_chip_1_0.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "303ba36a5f7144f4390e754eb30fbaa1", 
-      "name": "brnn_chip_1_1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "8045085905b578bb9c24820afe640c50", 
-      "name": "brnn_chip_1_2.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "2e2ce0d36a9e029857e6c2092eb9de10", 
-      "name": "brnn_chip_2_0.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "d16bd43883ae8dc11f8ba678c1ac9a74", 
-      "name": "brnn_chip_2_1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "d6dcb74025d0925fcf6c6c257611576d", 
-      "name": "brnn_chip_2_2.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "04169a659d17af4b15df0b7d82dac6a2", 
-      "name": "brnn_chip_3_0.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "aa4fc56b7c7dad8bd8da9569c573153d", 
-      "name": "brnn_chip_3_1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "6445d1851ca696dfff4ac74cc03a0496", 
-      "name": "brnn_chip_3_2.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "d07815aa2bda52371c1a3fae499cea60", 
-      "name": "brnn_chip_4_0.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "c9aedd743ca8312894d88d43314517e0", 
-      "name": "brnn_chip_4_1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "b343557ff3127906c69a134a01a73549", 
-      "name": "brnn_chip_4_2.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "5a8cfb96fc3b03712cdcf70756fe27d8", 
-      "name": "btn.psd", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "a7f683a101b9ff1d78693181e7db2f2f", 
-      "name": "btn_close.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "869b22c386bcb1533367e42594940bc2", 
-      "name": "bz.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "4269d13bbe8e3ab5e88f331a29f457b1", 
-      "name": "cha-fs8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "9a92ab11de9547823d2ff3e3729708ff", 
-      "name": "dialog_apply_01.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "04a0e2ba4242f1b14fc83f83128f0256", 
-      "name": "dialog_apply_02.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "7dfb19dd39efe861430c2a680b8142aa", 
-      "name": "dik-or8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "e9b09e54b6fcc8a7deb9562e1efd7a60", 
-      "name": "f-fs8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "1e90d257730f5cad237f1529d8a01483", 
-      "name": "f.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "df9ce94984ce7cd02d737a511dfea97a", 
-      "name": "f_fg.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "07fa74015c615aab715c512782dced6b", 
-      "name": "f_zc.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "97a99407fc7c32c640a5d906f9307238", 
-      "name": "fnt1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "2f5b182a79a16d79f61e5d2ebf97e288", 
-      "name": "font.fnt", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "e8e5f4a7b1660070e571030fc78f4aa2", 
-      "name": "font.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "b9f88df7db287932bade9d0481d86abd", 
-      "name": "gou-fs8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "ad78edbb9fecdb24a06f141eba7e9a9f", 
-      "name": "hundreds_caijin_fnt_0.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "c5bd7d9cf54c1bac232c1346aa133133", 
-      "name": "lose.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "70c83ef1bab426f7715906fa70e2fa0c", 
-      "name": "qx-or8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "70954cd13e6a7c90151f5eeaa9040eb6", 
-      "name": "tag_bai_normal1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "0b5072e172f1e5139ed3fdccc0ec9811", 
-      "name": "tag_dialog_bg.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "bcaf0bec87a2b1ddd83592dade77ad06", 
-      "name": "tag_fa_normal1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "bca226c3571402b8d309c490d5bb3e5f", 
-      "name": "tag_num1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "144afa73a149748887aa08fbb71e86ba", 
-      "name": "tag_zhong_normal1.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "f74830852e2ab919c1cbbc27211abe4b", 
-      "name": "win.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "f9f2cf19256fd751665fcfaedf287cec", 
-      "name": "z-fs8.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "8848a1fcbda52ca21819f9e5ac098a74", 
-      "name": "z.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "efb66bfcc78cbdbdf691f094b254ca81", 
-      "name": "z_fg.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
-      "md5": "37dc569de91ca1a8f1199e3173ad5cca", 
-      "name": "z_zc.png", 
-      "path": "28gbattle/res/28gang/"
-    }, 
-    {
       "md5": "3a494ed025f9305ac7503cb4a9615f2e", 
       "name": "dian1.png", 
       "path": "28gbattle/res/animation/shaizi/"
@@ -316,37 +46,37 @@
       "path": "28gbattle/res/animation/shaizi/"
     }, 
     {
-      "md5": "ded07a8e18c4119854c5bc5b1a0c8d92", 
+      "md5": "5d7a1ce4acee8ce3f9c05404b3eb5b6a", 
       "name": "applylist_bg.png", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "8d99c6968f7f8a51aa37193749ec2e69", 
+      "md5": "4192706014d556adb2c139f4a1729d24", 
       "name": "applylist_btn_apply_d.png", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "6104e32b7077966f0fb1717be6734be0", 
+      "md5": "711d1e9c4bb0945f96933f015d34d0bc", 
       "name": "applylist_btn_apply_n.png", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "2a0c7e188f1cc2fc1670a69772da0eed", 
+      "md5": "793f97be0b41f1de2071e0fd8ecd5d54", 
       "name": "applylist_btn_cancle_apply_d.png", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "b232a80414671c6ac13abfd65f2360d6", 
+      "md5": "6db1fb03a9701bff0f241fa8d24bac2b", 
       "name": "applylist_btn_cancle_apply_n.png", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "09820d13959b6e174b50921b275048b4", 
+      "md5": "d2c4d5457e637afc765eaa190d25fd8c", 
       "name": "applylist_btn_cancle_banker_d.png", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "3c9779b455f4849ef3d9b45579fdfa28", 
+      "md5": "eefabfeaa33f3a0ca804707b9b07083e", 
       "name": "applylist_btn_cancle_banker_n.png", 
       "path": "28gbattle/res/applylist/"
     }, 
@@ -356,92 +86,52 @@
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "9d6c54f21ca30ab5dc15b856d192ed1c", 
-      "name": "applylist_money_bg.png", 
-      "path": "28gbattle/res/applylist/"
-    }, 
-    {
-      "md5": "b9a45f02749f2bb0aaf6f1f14199c6ce", 
+      "md5": "ea93701c8ebd45bdf69d65969bffebe4", 
       "name": "ApplyListCellNode.csb", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "2c1659ac9949428ec921d66eba5cb7a9", 
+      "md5": "70963343a341081f7776debc2e515bdc", 
       "name": "ApplyListNode.csb", 
       "path": "28gbattle/res/applylist/"
     }, 
     {
-      "md5": "3bccb69919a340f8c5e7ca2e649a6879", 
-      "name": "fnt1.png", 
-      "path": "28gbattle/res/fnt/"
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "28gbattle/res/fonts/"
     }, 
     {
-      "md5": "438d0725292ffab80e64a1f89d97654b", 
-      "name": "fnt2.png", 
-      "path": "28gbattle/res/fnt/"
-    }, 
-    {
-      "md5": "c99e6278116270b820dac4cdf6db7c21", 
+      "md5": "bc55bf3e34d753c4cbd54aafbcd7a5fa", 
       "name": "28gang.png", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "8d0b02d75ec701360212726934b7309a", 
-      "name": "28gang_bg.png", 
-      "path": "28gbattle/res/game/"
-    }, 
-    {
-      "md5": "456aa6dac42dabea8c2be69e3c57c5fd", 
-      "name": "ApplyListCellNode.csb", 
-      "path": "28gbattle/res/game/"
-    }, 
-    {
-      "md5": "2c7fdf73c678712189e803c054de6789", 
-      "name": "ApplyListLayer.csb", 
-      "path": "28gbattle/res/game/"
-    }, 
-    {
-      "md5": "82fd6505f843a61d092fe82e3aa6dc09", 
+      "md5": "48d5edc694d993bf8a898ea83da48567", 
       "name": "bjl_game_chip_0_0.png", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "9843e0c94531b3eaa1abaa927f00e0e1", 
+      "md5": "bd4f7877485544c7faa1190478d9b050", 
       "name": "bjl_game_chip_1_0.png", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "1c35c5d2aa93b4878d7090ec30e605ec", 
+      "md5": "25c056aa18644f1a3ec5cdffe909b461", 
       "name": "bjl_game_chip_2_0.png", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "024db1b7a2e0eb46a3570fdd4c207c7e", 
+      "md5": "cadd1a58f91c6d750bded6f9eef93d0e", 
       "name": "bjl_game_chip_3_0.png", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "69aeadf14dee4fccb43d266db9077f4a", 
+      "md5": "feb5a30a006c5a488a6e538a83194c2f", 
       "name": "bjl_game_chip_4_0.png", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "076ed6f6417907127a72d29f6f875e0f", 
-      "name": "brnn_btn_info.png", 
-      "path": "28gbattle/res/game/"
-    }, 
-    {
-      "md5": "2aa5516537cd0713eccd3a36c03ef1d1", 
-      "name": "denglong.png", 
-      "path": "28gbattle/res/game/"
-    }, 
-    {
-      "md5": "d235b87d655e5a177a5cbfdcfeed85c2", 
-      "name": "dnhundreds_banker_lantern_light.png", 
-      "path": "28gbattle/res/game/"
-    }, 
-    {
-      "md5": "7d472e5a27a085b842ad0d464e59b745", 
+      "md5": "cdb6ed3b4d27d48b90b6659723c1596a", 
       "name": "GameLayer.csb", 
       "path": "28gbattle/res/game/"
     }, 
@@ -456,22 +146,17 @@
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "b96ab234c317f91d81b3ff99eedd699c", 
-      "name": "new_res_sitrole_user_bg.png", 
-      "path": "28gbattle/res/game/"
-    }, 
-    {
-      "md5": "db207a01e56c1799a4f4d39f050406f7", 
+      "md5": "9eedcc65b0131789e14dbd5996206831", 
       "name": "player.csb", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "343e956eed5b723f2f7e3c3d6c326bdb", 
+      "md5": "82a309e913b559fa6fcef975d8f22ef5", 
       "name": "TrendLayer.csb", 
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "64cf15fb2dc5b4e1aa2944ebc3d4eadd", 
+      "md5": "bef133da1d96d98369f77cc0b99abc8a", 
       "name": "txt_time_free.png", 
       "path": "28gbattle/res/game/"
     }, 
@@ -481,38 +166,173 @@
       "path": "28gbattle/res/game/"
     }, 
     {
-      "md5": "c3925843bdd646ee04a0a5bf00952283", 
-      "name": "28g.png", 
-      "path": "28gbattle/res/result/"
+      "md5": "b5bdaece6b731562119f41b8003b59c1", 
+      "name": "bg.jpg", 
+      "path": "28gbattle/res/new_28gang/"
     }, 
     {
-      "md5": "869b22c386bcb1533367e42594940bc2", 
-      "name": "bz.png", 
-      "path": "28gbattle/res/result/"
+      "md5": "1c1b3a99301079a9d896fd491b65111c", 
+      "name": "bg.png", 
+      "path": "28gbattle/res/new_28gang/"
     }, 
     {
-      "md5": "c2505e6c0119c107842bbab1f10dcbda", 
-      "name": "dian.png", 
-      "path": "28gbattle/res/result/"
+      "md5": "4e4e1d5b51ba38bd7021d6c40f24c114", 
+      "name": "brnn_btn_info.png", 
+      "path": "28gbattle/res/new_28gang/"
     }, 
     {
-      "md5": "c9a4fb252d39e711da1bb0e6ef58fc1c", 
-      "name": "fnt1.png", 
-      "path": "28gbattle/res/result/"
+      "md5": "5df8f5356af589827de04d4c9221f807", 
+      "name": "brtx.png", 
+      "path": "28gbattle/res/new_28gang/"
     }, 
     {
-      "md5": "227ac1a6d87b66ad5c2c60b328b90c87", 
+      "md5": "a3f097520325da717b878be485f5866b", 
+      "name": "c.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "bc97c186f946dbb4d6138d53aa0b86bb", 
+      "name": "dik.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "937b047d4697e2828a8f293dc9cdc914", 
+      "name": "fh.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "8a21d8d51b986610f3a8e43d2a1f1d39", 
+      "name": "fnt2.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "b286d9625dc050dfcad834766cd76215", 
+      "name": "g.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "097d0fd497725767492dfcb7a76a711f", 
+      "name": "hd.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "788bc88d9bb15112f6dbb99eff2c3d8d", 
+      "name": "jia.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "fb1baf46efe796f043f7d520bbb29eca", 
+      "name": "jiantou.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "f06d38fe09f8d8a595c2c92e97f65a74", 
+      "name": "js.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "c34521446db1f4743146c57536edeef2", 
+      "name": "jt1.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "b49faf56a9e8d8c7d6fd1c62f4134e97", 
+      "name": "ksxz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "15c0aa85bf164e96765005020552688a", 
+      "name": "los.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "2cad3456e8759235352efb604aeaecff", 
+      "name": "ludan_zz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "dcef6c061e7acf2ef920bb10ad4029ad", 
+      "name": "new_28gang.plist", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "f83bc2e20635bd997292574a94e254b6", 
+      "name": "new_28gang.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "c151726cfeb88af84e1cc5625b4f11ae", 
+      "name": "num_time.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "19b656cde152a2361d4cc9d9b41ea33b", 
+      "name": "qx.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "9c36c6362645aff75c90f89d6038ac22", 
+      "name": "sb.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "ac0dff86434f0f7a95c088f4539e57cc", 
+      "name": "sicbo_new_res_xz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "595af4b9533d4630e031bdfee35cd5aa", 
+      "name": "sm.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "e659ea3ff2c602c299fa0869500c9199", 
+      "name": "sz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "b9a7f477937a5b919420d0afd51c3d4c", 
+      "name": "tishi_bg.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "98ff5986334b402d3416917468a06aa7", 
+      "name": "top.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "3dc06810c99b7200840796095567ba73", 
+      "name": "tzxz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "bc55bf3e34d753c4cbd54aafbcd7a5fa", 
+      "name": "wfsm.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "5bb3758231a13b62833e24a845dd94b3", 
+      "name": "win.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "ed5625bf0f53207c66d0108e313ae152", 
+      "name": "zixz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "1aeed1fb602e543fd001f14846aed95e", 
+      "name": "zst.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "7a1c62e021c0bc49b91c6b5740979bf9", 
+      "name": "zzxz.png", 
+      "path": "28gbattle/res/new_28gang/"
+    }, 
+    {
+      "md5": "41eb52d1bd46c63bfb482d642ef18300", 
       "name": "GameResultLayer.csb", 
-      "path": "28gbattle/res/result/"
-    }, 
-    {
-      "md5": "0b5072e172f1e5139ed3fdccc0ec9811", 
-      "name": "tag_dialog_bg.png", 
-      "path": "28gbattle/res/result/"
-    }, 
-    {
-      "md5": "a2b351171058f525ecf0a7c39207df08", 
-      "name": "tag_outcome_title.png", 
       "path": "28gbattle/res/result/"
     }, 
     {
@@ -531,7 +351,7 @@
       "path": "28gbattle/res/roomlist/"
     }, 
     {
-      "md5": "b7257db923a6f45349dde405f6c66d2a", 
+      "md5": "b9c707de9dd52a3967ac4b9ea9439b5f", 
       "name": "roomlist_title.png", 
       "path": "28gbattle/res/roomlist/"
     }, 
@@ -549,6 +369,16 @@
       "md5": "74269cc5fae2b381e637395915cb8127", 
       "name": "Rule.txt", 
       "path": "28gbattle/res/roomlist/"
+    }, 
+    {
+      "md5": "7d449478da619a5b9891b117c1416946", 
+      "name": "sitrole_font_score_add.png", 
+      "path": "28gbattle/res/sitrole/"
+    }, 
+    {
+      "md5": "e499ed30a1217001c2b91aeacca42e12", 
+      "name": "sitrole_font_score_min.png", 
+      "path": "28gbattle/res/sitrole/"
     }, 
     {
       "md5": "cb3eab8e08c44ff6060afd2c7ad5ca2e", 
@@ -651,62 +481,42 @@
       "path": "28gbattle/res/sound_res/"
     }, 
     {
-      "md5": "e93e2bb923079c310c9ee539b2c4bbe1", 
+      "md5": "727b1da1d15482d85aa8271d8f953fe7", 
+      "name": "bt.png", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "bcb065dfefe2732b61ee28351a0b89df", 
+      "name": "txk.png", 
+      "path": "28gbattle/res/userlist/"
+    }, 
+    {
+      "md5": "54bebf30e976d657f2b862807004a6d6", 
       "name": "UserCellNode.csb", 
       "path": "28gbattle/res/userlist/"
     }, 
     {
-      "md5": "e23d30f2fc2abf586a07ce5d0b9036eb", 
+      "md5": "fdf1fa10a49f9858362eda59f46f719a", 
       "name": "UserItemNode.csb", 
       "path": "28gbattle/res/userlist/"
     }, 
     {
-      "md5": "f7cd10d04dd0261ada0eabd86a282edc", 
+      "md5": "67be6db402f9b766ab4661f1d2454813", 
       "name": "userlist_avatar_frame.png", 
       "path": "28gbattle/res/userlist/"
     }, 
     {
-      "md5": "765b7df331f3b26317e6ccae8becdfa2", 
+      "md5": "d3d895829f752fd0215f97cd75a1c5b1", 
       "name": "userlist_bg.png", 
       "path": "28gbattle/res/userlist/"
     }, 
     {
-      "md5": "27e4fb1e895ed9e453e79d7f2100da44", 
-      "name": "userlist_btn_close.png", 
-      "path": "28gbattle/res/userlist/"
-    }, 
-    {
-      "md5": "9290cc0b39a804e9b9bcac57e32f4b57", 
-      "name": "userlist_btn_next_d.png", 
-      "path": "28gbattle/res/userlist/"
-    }, 
-    {
-      "md5": "f86a52a3b1dcb01d8784a3d10396467b", 
-      "name": "userlist_btn_next_n.png", 
-      "path": "28gbattle/res/userlist/"
-    }, 
-    {
-      "md5": "71e0c5d1ec36bcf53db9de66273b2ae3", 
-      "name": "userlist_btn_previous_d.png", 
-      "path": "28gbattle/res/userlist/"
-    }, 
-    {
-      "md5": "825785dbb55f48162d2b40beebd56063", 
-      "name": "userlist_btn_previous_n.png", 
-      "path": "28gbattle/res/userlist/"
-    }, 
-    {
-      "md5": "667bc4aa940e1aade4cceb0d2346609c", 
+      "md5": "f3bdee4464bfa2f331c6b1f5db03865f", 
       "name": "userlist_coin.png", 
       "path": "28gbattle/res/userlist/"
     }, 
     {
-      "md5": "76040b435315e437f216aa6866095848", 
-      "name": "userlist_table_line.png", 
-      "path": "28gbattle/res/userlist/"
-    }, 
-    {
-      "md5": "2a47f92c0bfe18c2f4f6ac5bdcd1d7f1", 
+      "md5": "bfddbb66455e08d5405f75b2d6d4bfe2", 
       "name": "UserListNode.csb", 
       "path": "28gbattle/res/userlist/"
     }, 
@@ -721,7 +531,7 @@
       "path": "28gbattle/src/models/"
     }, 
     {
-      "md5": "0e37e1eb89172321678370c971d51c4e", 
+      "md5": "3113d5a90f913ec2f228d1a9fae80a82", 
       "name": "GameFrame.luac", 
       "path": "28gbattle/src/models/"
     }, 
@@ -731,7 +541,7 @@
       "path": "28gbattle/src/models/"
     }, 
     {
-      "md5": "c8487a4b4141fafb4606b19d87f88859", 
+      "md5": "adbeb688be4578ae69f1ff421909581b", 
       "name": "GameLayer.luac", 
       "path": "28gbattle/src/views/"
     }, 
@@ -741,7 +551,7 @@
       "path": "28gbattle/src/views/"
     }, 
     {
-      "md5": "edb8e195bcee596fee5c1548f6cf6e31", 
+      "md5": "671c6eea0f1725b74ba2da54f5bc5d77", 
       "name": "ApplyListLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
@@ -751,37 +561,37 @@
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "e8b751fc7783b60ed56f53ab4c41b137", 
+      "md5": "e53ea685cf7adbf85089ceb33197ee8b", 
       "name": "GameCardLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "d69988d241573e09c15e240179657774", 
+      "md5": "47d7ec96da6f9e56e73a462b8613c3b9", 
       "name": "GameResultLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "ed884e5c98596bac8fdbedf3216a9275", 
+      "md5": "a8d5e753704bb868583e674dd0ea37fe", 
       "name": "GameViewLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "aa9fc2ca51954beac4477f173de4622c", 
+      "md5": "3a990c3ca59478dcc73765f2e8166994", 
       "name": "TrendLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "a7a26429bf2aad3e103dacec3021d157", 
+      "md5": "22b1d0a922b7a466bdd0d550089aa1f6", 
       "name": "UserItem.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "md5": "87ab10787ee3796b83d50f26004d587c", 
+      "md5": "48e9cff1561051940e35b092f3e3d0db", 
       "name": "UserListLayer.luac", 
       "path": "28gbattle/src/views/layer/"
     }, 
     {
-      "allcount": 156
+      "allcount": 118
     }
   ]
 }

@@ -166,28 +166,8 @@
       "path": "runfasthn/res/result/"
     }, 
     {
-      "md5": "9dd870630e512c45ded748c03e289ed3", 
-      "name": "icon_roomlist_0.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "a61228540532551ba3c015512daa8437", 
-      "name": "icon_roomlist_1.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "abd3ad759457d799d491116e0cc922a0", 
-      "name": "icon_roomlist_2.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "67203579c92902bcc7c3390dc1c2fa70", 
+      "md5": "b98cf29752364e2893a1f7e684613b51", 
       "name": "roomlist_title.png", 
-      "path": "runfasthn/res/roomlist/"
-    }, 
-    {
-      "md5": "0d2553343973f0d2558812cf2accecf7", 
-      "name": "roomtable.png", 
       "path": "runfasthn/res/roomlist/"
     }, 
     {
@@ -686,12 +666,12 @@
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "23c3fde74fac0668ae0c6340f62eccf3", 
+      "md5": "f0bf2821be10889df2b62f09e94b6f19", 
       "name": "GameLogic.luac", 
       "path": "runfasthn/src/models/"
     }, 
     {
-      "md5": "ffa7e3b0613755147770af5c0a0520fa", 
+      "md5": "825651fca1d1bff3fe5e2bd5df7c0e57", 
       "name": "GameLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
@@ -701,12 +681,12 @@
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "bba53b87271dd7f39a7547f41b139628", 
+      "md5": "0beb93d87de989d152550a7e185c0ec8", 
       "name": "GameRoomListLayer.luac", 
       "path": "runfasthn/src/views/"
     }, 
     {
-      "md5": "662e4d2cf00fa9ed396afd9d765fe32c", 
+      "md5": "dd3dfa9afcb11d188f60b6226cbc0872", 
       "name": "GameViewLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -716,7 +696,7 @@
       "path": "runfasthn/src/views/layer/"
     }, 
     {
-      "md5": "45960a50587b19c3fb6c15f42b23ce00", 
+      "md5": "f302ce3f263e7e4b3b5ec7339d584723", 
       "name": "ResultLayer.luac", 
       "path": "runfasthn/src/views/layer/"
     }, 
@@ -731,7 +711,7 @@
       "path": "runfasthn/src/views/layer/gamecard/"
     }, 
     {
-      "allcount": 146
+      "allcount": 142
     }
   ]
 }

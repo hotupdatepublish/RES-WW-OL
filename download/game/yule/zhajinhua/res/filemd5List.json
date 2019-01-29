@@ -1,179 +1,74 @@
 {
   "listdata": [
     {
-      "md5": "7fc924fdb1545a1f95e2ef34ea3aab85", 
-      "name": "bps.png", 
+      "md5": "fb68d19ecfbff501674d39d97d4e7465", 
+      "name": "allimg.plist", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "9be27afb80b57ac4dce47866b49c48f8", 
-      "name": "ButtonLayer.csb", 
+      "md5": "ee9b338cd760c9dbd7c1c96d6e87c441", 
+      "name": "allimg.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "c88be7c1236d62a626b48ee5de4e3ef0", 
+      "md5": "56b32f5d338112499e6dec80d63d9136", 
       "name": "compareLayer.csb", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "261c849ff0fd326838a32355cc078a31", 
-      "name": "deskSource.plist", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "08f8b8c505285f51941bb4562afe1dab", 
-      "name": "deskSource.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "32ba3b6c4e461389c625223d237ac8a6", 
+      "md5": "3efb82605021a787b05ef8f4c007a565", 
       "name": "EndLayer.csb", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "de5c787ec89797b5eaaac799b4cfad41", 
-      "name": "game_zjh_res.plist", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "4752ec27954739fa671b77de7ba8426f", 
-      "name": "game_zjh_res.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "c6debdf5829c4390d93cb1c51a5b9f15", 
+      "md5": "19587374be45eb9b7547f2285257107b", 
       "name": "MainScene.csb", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "06e160a84090b5470ae20ffe76a617c9", 
+      "md5": "34be076436d6cfd38d935b1ff3475bba", 
       "name": "poker.plist", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "22a22a23e1832c31a951554829b42889", 
+      "md5": "0f268a6c251e24fa56df896d6e3bd0a8", 
       "name": "poker.png", 
       "path": "zhajinhua/res/"
     }, 
     {
-      "md5": "16617af1194354c5e36f19680a3c0ad8", 
-      "name": "tag_profile_shining_green.png", 
-      "path": "zhajinhua/res/"
+      "md5": "7d0e27118e9a7076971915efcf11993e", 
+      "name": "fnt_zhajinhua_bet.png", 
+      "path": "zhajinhua/res/fonts/"
     }, 
     {
-      "md5": "67a90a8307418adbf54b3828cebedd7b", 
-      "name": "tag_profile_shining_red.png", 
-      "path": "zhajinhua/res/"
+      "md5": "b3667e9f9cbf80f4f2383bd3aea1a189", 
+      "name": "round_body.ttf", 
+      "path": "zhajinhua/res/fonts/"
     }, 
     {
-      "md5": "c28ab75a2b68859e5e2b1ee66e6f6431", 
-      "name": "tag_profile_shining_yellow.png", 
-      "path": "zhajinhua/res/"
+      "md5": "4ed51bab0b0279013e21c9e547f1305c", 
+      "name": "zhajinhua_bg.jpg", 
+      "path": "zhajinhua/res/img/"
     }, 
     {
-      "md5": "471daf2832cfa7fc2ab5daaa2dc515e5", 
-      "name": "wz.png", 
-      "path": "zhajinhua/res/"
+      "md5": "9ae5236434f39d0b0ea921e6dd222358", 
+      "name": "zhajinhua_di.png", 
+      "path": "zhajinhua/res/img/"
     }, 
     {
-      "md5": "5f75e0428e44f239800d773bf6a242b3", 
-      "name": "xipai_spine.atlas", 
-      "path": "zhajinhua/res/"
+      "md5": "e443ae74d75baedf513971deea1c315a", 
+      "name": "zhajinhua_green.png", 
+      "path": "zhajinhua/res/img/"
     }, 
     {
-      "md5": "8560ed377c01c0d173a297c7aa93428c", 
-      "name": "xipai_spine.json", 
-      "path": "zhajinhua/res/"
+      "md5": "d9df55ddf9ce9f778a9dc76864475551", 
+      "name": "zhajinhua_red.png", 
+      "path": "zhajinhua/res/img/"
     }, 
     {
-      "md5": "b841e13e8cd0be470dd300b000e90504", 
-      "name": "xipai_spine.png", 
-      "path": "zhajinhua/res/"
-    }, 
-    {
-      "md5": "32f6774ea61a70f9614aec21a1d94974", 
-      "name": "newt3animation.plist", 
-      "path": "zhajinhua/res/compare/"
-    }, 
-    {
-      "md5": "eb3dc29e8ee505dee736cf5c3b2231e3", 
-      "name": "newt3animation.png", 
-      "path": "zhajinhua/res/compare/"
-    }, 
-    {
-      "md5": "7754d1441b4d661218636a67c46d398a", 
-      "name": "Button_Disable.png", 
-      "path": "zhajinhua/res/Default/"
-    }, 
-    {
-      "md5": "ca609bab34f9b3011570392bce1679a7", 
-      "name": "bg_lobby.jpg", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "60e5bc7fa5cfe6e9722f75d36b41e46e", 
-      "name": "chip_small_500.png", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "61fd7c22449c0fb418d95b07fae4995c", 
-      "name": "tag_premium_game.png", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "c7c6fc545b5d5c546495e7a043435186", 
-      "name": "tag_premium_game_bg.png", 
-      "path": "zhajinhua/res/desk/"
-    }, 
-    {
-      "md5": "5f08e354f45283ca32c6c842e3b580d5", 
-      "name": "btn_change_table.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "8b3e5763139ff2f78bfdcb832028d61b", 
-      "name": "btn_continue.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "78f074401c43df7269de8281bb8a0db9", 
-      "name": "btn_leave.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "f85da634fa48a866d4a045ce93070b46", 
-      "name": "effectpicture.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "08471e118474fb5ae15ec51ec2c6d111", 
-      "name": "resulteffect.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "07351ec292496b8188c841e7a386e905", 
-      "name": "tag_bg.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "10635d65f8e3f625ce33b5a6a231bacd", 
-      "name": "tag_fail.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "dc0bc6fe2886378c41c4c840bcc267ec", 
-      "name": "tag_poker.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "fbe538df14b58851e812e213ffd151fc", 
-      "name": "tag_profile.png", 
-      "path": "zhajinhua/res/end/"
-    }, 
-    {
-      "md5": "8716aca06b1ebfdac1eab4c0d6858092", 
-      "name": "tag_win.png", 
-      "path": "zhajinhua/res/end/"
+      "md5": "c1621547d4dc24869d929fc95058619d", 
+      "name": "zhajinhua_yellow.png", 
+      "path": "zhajinhua/res/img/"
     }, 
     {
       "md5": "3f8626c2f4ba17da43d2bf1d6de17163", 
@@ -456,7 +351,7 @@
       "path": "zhajinhua/src/models/"
     }, 
     {
-      "md5": "5a8b4a83cc764a7493cfab7803c1c8d3", 
+      "md5": "ba438593963f50200f5f2b6c858175cb", 
       "name": "GameLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
@@ -466,27 +361,27 @@
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "320ee4634e78ce427e45763066779068", 
+      "md5": "9163a228b529b44a22bc77ffe3f9eef2", 
       "name": "GameRoomListLayer.luac", 
       "path": "zhajinhua/src/views/"
     }, 
     {
-      "md5": "a92ddada4828aabf65912e398f014eb8", 
+      "md5": "9c6b86ddefb55047890ee2c40b8b7bb6", 
       "name": "CompareView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "cd22451f812ce80f76bc68835633a1e8", 
+      "md5": "67cd3d136b38d64cd7e12819a15e22d7", 
       "name": "GameEndView.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "md5": "061d1527cab11ea9caa818d14499c28f", 
+      "md5": "f8fcdfd670c615060f90eeafe06126f1", 
       "name": "GameViewLayer.luac", 
       "path": "zhajinhua/src/views/layer/"
     }, 
     {
-      "allcount": 97
+      "allcount": 76
     }
   ]
 }
