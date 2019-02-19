@@ -4,13 +4,18 @@
 	"data":
 	{
 		"valid":true,
-		"downloadurl":"https://www.suoweiyiren.com/mobile/qipai/yuezhong/ww/ol/hotupdate/download",
-		"clientversion":"27",
-		"resversion":"99",
+		"downloadurl":"https://raw.githubusercontent.com/hotupdatepublish/RES-WW-OL/master/download",
+		"clientversion":"1",
+		"resversion":"103",
 		"ios_url":"http://app.ww666.me",
 		"android_url":"http://app.ww666.me",
 		"wxLogon":1,
 		"isOpenCard":0,
+		"LOGONSERVER":"lgrm.ww666.me",
+		"GAMESERVER":"lgrm.ww666.me",
+		"LOGONPORT":8800,
+		"HTTP_URL":"http://api.ww666.me",
+		"DL_DOMAIN":"app.ww666.me",
 		"gamelist":[
 			{
 				"KindID":"6",

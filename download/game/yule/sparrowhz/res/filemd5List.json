@@ -1006,6 +1006,21 @@
       "path": "sparrowhz/res/gameResult/hzmj/"
     }, 
     {
+      "md5": "580d1fad45e1d713ed8fa690e27b3407", 
+      "name": "mahjong_tiles.pvr.ccz", 
+      "path": "sparrowhz/res/mj/"
+    }, 
+    {
+      "md5": "e9cfd4174f952cb61a768bd3c8f3511e", 
+      "name": "mahjong_tiles.pvr.plist", 
+      "path": "sparrowhz/res/mj/"
+    }, 
+    {
+      "md5": "369413bedb45c5cb16929cbf607a7554", 
+      "name": "mahjong_tiles.pvr.png", 
+      "path": "sparrowhz/res/mj/"
+    }, 
+    {
       "md5": "f92a996ea613b3c29c0540ea59588b88", 
       "name": "icon_roomlist_0.png", 
       "path": "sparrowhz/res/roomlist/"
@@ -1611,7 +1626,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 322
+      "allcount": 325
     }
   ]
 }

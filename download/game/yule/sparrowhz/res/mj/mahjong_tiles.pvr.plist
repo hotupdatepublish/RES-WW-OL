@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>mahjong_tiles.pvr.ccz</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1523,508}</string>
+                <key>spriteSourceSize</key>
+                <string>{1523,508}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1523,508}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>mahjong_tiles.pvr.png</string>
+            <key>size</key>
+            <string>{1525,510}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:bdf772d57c5ab4c6a84d56c3d71c16e6:9f4cae2697d3925bfaf2e7f396cec606:3d93f2d7ab45f94b96c7b5a0f56675da$</string>
+            <key>textureFileName</key>
+            <string>mahjong_tiles.pvr.png</string>
+        </dict>
+    </dict>
+</plist>
